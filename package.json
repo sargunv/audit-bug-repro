@@ -1,0 +1,7 @@
+{
+  "name": "audit-bug-repro",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "@sargunv/testlib-c": "^0.1.0"
+  }
+}
