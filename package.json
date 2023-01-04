@@ -1,0 +1,8 @@
+{
+  "name": "audit-bug-repro",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "@sargunv/testlib-c": "^0.1.0"
+  },
+  "packageManager": "yarn@4.0.0-rc.34"
+}
